@@ -23,4 +23,4 @@ while True:
     exit = displayWord()
     if exit == 2:
         break
-    time.sleep(2)
+    time.sleep(40*60)
